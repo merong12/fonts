@@ -1,0 +1,69 @@
+@charset "utf-8";
+
+
+@font-face {
+    font-family: 'scdream';
+    src: url('SCDream1.woff2') format('woff2'),
+         url('SCDream1.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'scdream';
+    src: url('SCDream2.woff2') format('woff2'),
+         url('SCDream2.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'scdream';
+    src: url('SCDream3.woff2') format('woff2'),
+         url('SCDream3.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {    
+    font-family: 'scdream';
+    src: url('SCDream4.woff2') format('woff2'),
+         url('SCDream4.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'scdream';
+    src: url('SCDream5.woff2') format('woff2'),
+         url('SCDream5.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'scdream';
+    src: url('SCDream6.woff2') format('woff2'),
+         url('SCDream6.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'scdream';
+    src: url('SCDream7.woff2') format('woff2'),
+         url('SCDream7.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+   font-family: 'scdream';
+    src: url('SCDream8.woff2') format('woff2'),
+         url('SCDream8.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+
+}
+@font-face {
+   font-family: 'scdream';
+    src: url('SCDream9.woff2') format('woff2'),
+         url('SCDream9.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
